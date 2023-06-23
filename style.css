@@ -381,9 +381,8 @@ a {
 
   .movie-img {
     width: 80px;
-    object-fit: cover;
     margin: 5px 0;
-    padding: 20px;
+    padding: 10px;
   }
 
   .plus-sign,
